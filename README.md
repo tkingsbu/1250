@@ -1,5 +1,2 @@
 # 1250
-Trevor Kingsburgh
-Student ID: 1323599
-One example of well-designed software I've personally used is Notion. Its clean interface and customizable workspace allowed me to create and organise notes, tasks, and databases. The drag-and-drop functionality simplifies structuring information, making it easier for me to adapt the platform to my unique workflows. Additionally, the collaborative features, such as real-time editing and commenting, create effective teamwork. This thoughtful design not only enhances productivity but also reduces the learning curve for me, a new user.
-Software design is crucial because it directly impacts user experience and satisfaction. A well-designed interface can make complex tasks easier, while poor design can lead to frustration and decreased efficiency. Effective software design anticipates user needs, allowing for intuitive navigation and interaction. This not only improves usability but also encourages user assumption and retention. Ultimately, good design can transform software from a basic tool into a valuable asset, enhancing both individual and organisational performance.
+
